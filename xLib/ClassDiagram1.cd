@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="xLib.Expression" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Expression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xLib.MulExpr">
+    <Position X="4" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MulExpr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xLib.Program" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xLib.BinaryExpr">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAhAAAAAAAAAEAAQAAAAAAAA=</HashCode>
+      <FileName>BinaryExpr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xLib.ConstExpr">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAgEEAAAAAgAAAAAAAAAAAAQAAAAAAQA=</HashCode>
+      <FileName>ConstExpr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xLib.DivExpr">
+    <Position X="6" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>DivExpr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xLib.AddExpr">
+    <Position X="8" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>AddExpr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xLib.MonomialExpr">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQgAEAAAAAgAAAAAAAAAAAAQAAACAAAA=</HashCode>
+      <FileName>MonomialExpr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xLib.SubExpr">
+    <Position X="9.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>SubExpr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
