@@ -9,6 +9,5 @@ namespace xLib
     {
         public abstract double Evaluate(double x);
         public abstract Expression Derive();
-        public abstract string toString(IPrintExpr print);
     }
 }
